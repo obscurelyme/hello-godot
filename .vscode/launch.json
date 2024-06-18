@@ -8,6 +8,7 @@
       "name": "Debug GDScript",
       "type": "godot",
       "request": "launch",
+      "scene": "current"
     }
   ]
 }
